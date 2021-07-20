@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationGenerator", "CombinationGenerator\CombinationGenerator.csproj", "{A87A6680-8D8B-4DEE-89A2-C8CF1C3D96B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CombinationGenerator", "CombinationGenerator\CombinationGenerator.csproj", "{A87A6680-8D8B-4DEE-89A2-C8CF1C3D96B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{F62138E8-1BD6-4DDE-9A85-CE0532B02666}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A87A6680-8D8B-4DEE-89A2-C8CF1C3D96B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A87A6680-8D8B-4DEE-89A2-C8CF1C3D96B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A87A6680-8D8B-4DEE-89A2-C8CF1C3D96B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62138E8-1BD6-4DDE-9A85-CE0532B02666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62138E8-1BD6-4DDE-9A85-CE0532B02666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62138E8-1BD6-4DDE-9A85-CE0532B02666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62138E8-1BD6-4DDE-9A85-CE0532B02666}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
