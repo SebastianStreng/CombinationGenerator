@@ -6,8 +6,8 @@ namespace CombinationGenerator
 {
    public class Tokenpair
     {
-        string token0;
-        string token1; 
+       public string token0;
+       public string token1;
 
         public Tokenpair(string token0, string token1)
         {
