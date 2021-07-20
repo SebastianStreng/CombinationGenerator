@@ -1,0 +1,13 @@
+C:\Users\sebas\source\repos\CombinationGenerator\CombinationGenerator\bin\Debug\netcoreapp3.1\CombinationGenerator.exe
+C:\Users\sebas\source\repos\CombinationGenerator\CombinationGenerator\bin\Debug\netcoreapp3.1\CombinationGenerator.deps.json
+C:\Users\sebas\source\repos\CombinationGenerator\CombinationGenerator\bin\Debug\netcoreapp3.1\CombinationGenerator.runtimeconfig.json
+C:\Users\sebas\source\repos\CombinationGenerator\CombinationGenerator\bin\Debug\netcoreapp3.1\CombinationGenerator.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\CombinationGenerator\CombinationGenerator\bin\Debug\netcoreapp3.1\CombinationGenerator.dll
+C:\Users\sebas\source\repos\CombinationGenerator\CombinationGenerator\bin\Debug\netcoreapp3.1\CombinationGenerator.pdb
+C:\Users\sebas\source\repos\CombinationGenerator\CombinationGenerator\obj\Debug\netcoreapp3.1\CombinationGenerator.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\CombinationGenerator\CombinationGenerator\obj\Debug\netcoreapp3.1\CombinationGenerator.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\CombinationGenerator\CombinationGenerator\obj\Debug\netcoreapp3.1\CombinationGenerator.AssemblyInfo.cs
+C:\Users\sebas\source\repos\CombinationGenerator\CombinationGenerator\obj\Debug\netcoreapp3.1\CombinationGenerator.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\CombinationGenerator\CombinationGenerator\obj\Debug\netcoreapp3.1\CombinationGenerator.dll
+C:\Users\sebas\source\repos\CombinationGenerator\CombinationGenerator\obj\Debug\netcoreapp3.1\CombinationGenerator.pdb
+C:\Users\sebas\source\repos\CombinationGenerator\CombinationGenerator\obj\Debug\netcoreapp3.1\CombinationGenerator.genruntimeconfig.cache
