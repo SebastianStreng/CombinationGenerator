@@ -18,8 +18,8 @@ namespace Test
             pairlist.Add(new Tokenpair("D", "B"));
 
 
+            CombinationGenerator.Program.combineValues(pairlist);
         }
-
 
 
     }

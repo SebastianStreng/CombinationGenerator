@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CombinationGenerator
 {
-    class TokenPairTripples
+    public class TokenPairTripples
     {
         public Tokenpair tokenpair1;
         public Tokenpair tokenpair2;
